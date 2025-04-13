@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is José Riobó and I'm a Full-Stack Developer, from Spain 🇪🇸 </h2>
+<h2 align="left">Hi 👋! My name is José Riobó and I'm a Full-Stack Developer, from Spain</h2>
 
 ###
 
